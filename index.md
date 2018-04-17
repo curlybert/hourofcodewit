@@ -1,11 +1,18 @@
-## Welcome to and Hour of Code at Waterford Institute of Technology
+## Welcome to and Hour of Code at Waterford Institute of Technology!
 
 The [Hour of Code](https://hourofcode.com/ie) started as a one-hour introduction to computer science, designed to demystify "code", to show that anybody can learn the basics, and to broaden participation in the field of computer science. It has since become a worldwide effort to celebrate computer science. 
+
+![Image](https://github.com/curlybert/hourofcodewit/blob/master/HourOfCode_logo_RGB.jpg)
 
 We have been runnng Hour of Code activities in WIT for a number of years to show prospective students just how accessible computer programming can be.
 
 
-### Markdown
+### What To Do?!
+We like to capture some anonymised data about people who complete an Hour of Code with us, to learn more about people's attitudes towards computer science. There's three simple steps to the activity, that should take you less than 60 minutes to complete.
+
+1. Take the BEFORE survey
+2. Complete the Hour of Code exercise
+3. Complete the AFTER survey
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
