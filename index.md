@@ -2,8 +2,7 @@
 
 The [Hour of Code](https://hourofcode.com/ie){:target="_blank"} started as a one-hour introduction to computer science, designed to demystify "code", to show that anybody can learn the basics, and to broaden participation in the field of computer science. It has since become a worldwide effort to celebrate computer science. 
 
-![Image](poster_thumbnail_maddy_maxey.jpg)
-![Image](poster_thumbnail_nidhi_erin.jpg)
+![Image](poster_thumbnail_maddy_maxey.jpg) ![Image](poster_thumbnail_nidhi_erin.jpg)
 
 We have been runnng Hour of Code activities in WIT for a number of years to show prospective students just how accessible computer programming can be.
 
