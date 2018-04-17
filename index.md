@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to and Hour of Code at Waterford Institute of Technology
 
-You can use the [editor on GitHub](https://github.com/curlybert/hourofcodewit/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The [Hour of Code(https://hourofcode.com/ie)] started as a one-hour introduction to computer science, designed to demystify "code", to show that anybody can learn the basics, and to broaden participation in the field of computer science. It has since become a worldwide effort to celebrate computer science. We have been runnng Hour of Code activities in WIT for a number of years to show prospective students just how accessible computer programming can be.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
