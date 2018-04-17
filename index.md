@@ -14,32 +14,8 @@ We like to capture some anonymised data about people who complete an Hour of Cod
 2. Complete the Hour of Code exercise
 3. Complete the AFTER survey
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Minecraft
+We've used a number of Hour of Code exercises since WIT began participation. At the moment, we're working with the Minecraft Hero's Journey activity. The "Player" uses programming blocks and JavaScript to complete a series of puzzles and progress to the next level.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/curlybert/hourofcodewit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### More Info
+If you'd like more information about the computing courses available at WIT, we invite you to browse our [Department Website](https://www.wit.ie/schools/science/department_of_computing_maths)
