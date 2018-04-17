@@ -15,6 +15,7 @@ We like to capture some anonymised data about people who complete an Hour of Cod
 3. Complete the [AFTER survey](https://www.surveymonkey.com/r/QV96RJ7){:target="_blank"}
 
 ### Minecraft
+![Image](mc_landing_2017_wide.jpg)
 We've used a number of Hour of Code exercises since WIT began participation. At the moment, we're working with the Minecraft Hero's Journey activity. The "Player" uses programming blocks and JavaScript to complete a series of puzzles and progress to the next level until completion.
 
 ### More Info
