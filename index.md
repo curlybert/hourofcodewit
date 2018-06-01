@@ -1,4 +1,4 @@
-## Welcome to and Hour of Code at Waterford Institute of Technology!
+## Welcome to an Hour of Code at Waterford Institute of Technology!
 
 The [Hour of Code](https://hourofcode.com/ie){:target="_blank"} started as a one-hour introduction to computer science, designed to demystify "code", to show that anybody can learn the basics, and to broaden participation in the field of computer science. It has since become a worldwide effort to celebrate computer science. 
 
